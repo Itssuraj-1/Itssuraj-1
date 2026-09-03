@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-- 🎓 BCA (Bachelor of Computer Applications) student, currently in 6th semester
+- 🎓 BCA (Bachelor of Computer Applications) student, 
 - 📍 Based in Banepa, Nepal
 - 💼 Freelance Web & Software Developer
 - 🌱 Learning by building — taking an idea, making it work, then making it better
@@ -54,8 +54,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Itssuraj-1&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itssuraj-1&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Itssuraj-1&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Itssuraj-1&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
