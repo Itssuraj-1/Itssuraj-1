@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-- 🎓 BCA (Bachelor of Computer Applications) student, currently in 6th semester
+- 🎓 BCA (Bachelor of Computer Applications) student, 
 - 📍 Based in Banepa, Nepal
 - 💼 Freelance Web & Software Developer
 - 🌱 Learning by building — taking an idea, making it work, then making it better
