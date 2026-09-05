@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Suraj 👋</h1>                        
 <h3 align="center">Web & Software Developer from Nepal — turning practical ideas into working software.</h3>
 
-<p align="center">
+<p align="center">                   
   <a href="https://thapasuraj8848.com.np/"><img src="https://img.shields.io/badge/Portfolio-thapasuraj8848.com.np-2ea043?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/suraj-thapa-b47185340/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://youtube.com/@itssuraj8494"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
