@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Suraj 👋</h1>
+<h1 align="center">Hi, I'm Suraj 👋</h1>                        
 <h3 align="center">Web & Software Developer from Nepal — turning practical ideas into working software.</h3>
 
 <p align="center">
